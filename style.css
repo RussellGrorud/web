@@ -1,0 +1,32 @@
+body{
+    background:linear-gradient(rgb(50,50,50),rgb(15,15,15));
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    margin-left:0px;
+    margin-right:0px;
+    }
+    *{ 
+    color:rgb(235,235,235);
+    font-family:sans-serif;
+      
+    }
+    h1{
+    font-weight: bold;
+    border-bottom-style:solid;
+    }
+    img
+    {
+    float: left;
+    }
+    #about
+    {
+    margin-left:95%;
+    position:absolute;
+    top: 35px;
+    left: 20px;
+
+    }
+    #logo
+    {
+    color: green;
+    }
